@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\ValidarCPF\ValidarCPF\bin\Debug\netcoreapp3.1\ValidarCPF.exe
+C:\Users\user\source\repos\ValidarCPF\ValidarCPF\bin\Debug\netcoreapp3.1\ValidarCPF.deps.json
+C:\Users\user\source\repos\ValidarCPF\ValidarCPF\bin\Debug\netcoreapp3.1\ValidarCPF.runtimeconfig.json
+C:\Users\user\source\repos\ValidarCPF\ValidarCPF\bin\Debug\netcoreapp3.1\ValidarCPF.runtimeconfig.dev.json
+C:\Users\user\source\repos\ValidarCPF\ValidarCPF\bin\Debug\netcoreapp3.1\ValidarCPF.dll
+C:\Users\user\source\repos\ValidarCPF\ValidarCPF\bin\Debug\netcoreapp3.1\ValidarCPF.pdb
+C:\Users\user\source\repos\ValidarCPF\ValidarCPF\obj\Debug\netcoreapp3.1\ValidarCPF.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ValidarCPF\ValidarCPF\obj\Debug\netcoreapp3.1\ValidarCPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ValidarCPF\ValidarCPF\obj\Debug\netcoreapp3.1\ValidarCPF.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ValidarCPF\ValidarCPF\obj\Debug\netcoreapp3.1\ValidarCPF.AssemblyInfo.cs
+C:\Users\user\source\repos\ValidarCPF\ValidarCPF\obj\Debug\netcoreapp3.1\ValidarCPF.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ValidarCPF\ValidarCPF\obj\Debug\netcoreapp3.1\ValidarCPF.dll
+C:\Users\user\source\repos\ValidarCPF\ValidarCPF\obj\Debug\netcoreapp3.1\ValidarCPF.pdb
+C:\Users\user\source\repos\ValidarCPF\ValidarCPF\obj\Debug\netcoreapp3.1\ValidarCPF.genruntimeconfig.cache
